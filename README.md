@@ -25,3 +25,11 @@ A fast, Python-based subdomain enumeration tool that performs DNS brute-forcing 
 ```bash
 git clone https://github.com/yourusername/subenum-python.git
 cd subenum-python
+```
+
+---
+
+### 2. CODE
+```bash
+python subdomain.py -d example.com -w wordlist.txt
+```
