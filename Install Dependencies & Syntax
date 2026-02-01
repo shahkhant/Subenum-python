@@ -1,4 +1,0 @@
-pip install dnspython requests
-
-
-CODE: python subdomain.py -d example.com -w wordlist.txt --http
